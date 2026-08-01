@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SRCC Business Club — Shaheed Ramiz Uddin Cantonment College</title>
+<meta name="description" content="SRCC Business Club is the leading student organization at Shaheed Ramiz Uddin Cantonment College, developing leadership, entrepreneurship, and professional skills in Dhaka, Bangladesh.">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SRCC Business Club",
+  "alternateName": "SRCCBC",
+  "url": "https://majed-islam.github.io/SRCCBC/",
+  "logo": "https://raw.githubusercontent.com/srccbc2017/SRCCBC/main/SRCCBUSINESSCLUB.png",
+  "description": "SRCC Business Club is the leading student organization at Shaheed Ramiz Uddin Cantonment College, dedicated to developing well-rounded, career-ready professionals. Through workshops, competitions, and hands-on projects, the club helps students build essential skills in leadership, entrepreneurship, public speaking, teamwork, and business strategy.",
+  "foundingDate": "2017",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Dhaka",
+    "addressCountry": "BD"
+  },
+  "parentOrganization": {
+    "@type": "EducationalOrganization",
+    "name": "Shaheed Ramiz Uddin Cantonment College"
+  },
+  "sameAs": [
+    "https://www.facebook.com/srccbc"
+  ]
+}
+</script>
+
+<style>
+  :root {
+    --ink: #1b2a2f;
+    --paper: #f6f3ec;
+    --brass: #a8843c;
+    --brass-deep: #7c611f;
+    --line: #d8d0bd;
+    --panel: #ffffff;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Iowan Old Style", "Georgia", "Times New Roman", serif;
+    line-height: 1.6;
+  }
+
+  a { color: var(--brass-deep); }
+
+  .wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  header.site {
+    border-bottom: 1px solid var(--line);
+    padding: 20px 0;
+  }
+
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .brand img {
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
+    border-radius: 4px;
+  }
+
+  nav.links {
+    display: flex;
+    gap: 22px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.03em;
+  }
+
+  nav.links a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 2px;
+  }
+
+  nav.links a:hover { border-bottom-color: var(--brass); }
+
+  .hero {
+    padding: 72px 0 56px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .eyebrow {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--brass-deep);
+    margin: 0 0 18px;
+  }
+
+  h1 {
+    font-size: clamp(2.2rem, 5vw, 3.4rem);
+    line-height: 1.08;
+    margin: 0 0 20px;
+    font-weight: 500;
+  }
+
+  h1 em {
+    font-style: italic;
+    color: var(--brass-deep);
+  }
+
+  .lede {
+    font-size: 1.15rem;
+    max-width: 60ch;
+    color: #3c4a4e;
+    margin: 0 0 30px;
+  }
+
+  .cta-row {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+
+  .btn {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 12px 22px;
+    border: 1px solid var(--ink);
+    color: var(--ink);
+    display: inline-block;
+  }
+
+  .btn.primary {
+    background: var(--ink);
+    color: var(--paper);
+  }
+
+  .btn:hover { opacity: 0.85; }
+
+  section {
+    padding: 56px 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  section:last-of-type { border-bottom: none; }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    gap: 20px;
+  }
+
+  h2 {
+    font-size: 1.7rem;
+    font-weight: 500;
+    margin: 0;
+  }
+
+  .tag {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 12px;
+    color: var(--brass-deep);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .pillars {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  .pillar {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 24px 20px;
+  }
+
+  .pillar .mark {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 12px;
+    color: var(--brass);
+    letter-spacing: 0.1em;
+    margin-bottom: 10px;
+  }
+
+  .pillar h3 {
+    margin: 0 0 8px;
+    font-size: 1.05rem;
+    font-weight: 600;
+  }
+
+  .pillar p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #4b585c;
+  }
+
+  .about p {
+    max-width: 68ch;
+    color: #33403f;
+  }
+
+  .facts {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 1px solid var(--line);
+  }
+
+  .facts div {
+    padding: 20px;
+    border-right: 1px solid var(--line);
+  }
+
+  .facts div:last-child { border-right: none; }
+
+  .facts .num {
+    font-size: 1.4rem;
+    color: var(--brass-deep);
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  .facts .label {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #667;
+  }
+
+  footer {
+    padding: 36px 0 48px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    color: #5c6a6d;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  footer a { color: #5c6a6d; }
+
+  @media (max-width: 700px) {
+    .pillars { grid-template-columns: 1fr; }
+    .facts { grid-template-columns: repeat(2, 1fr); }
+    .facts div:nth-child(2) { border-right: none; }
+    nav.links { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap nav">
+    <a class="brand" href="#top">
+      <img src="https://raw.githubusercontent.com/srccbc2017/SRCCBC/main/SRCCBUSINESSCLUB.png" alt="SRCC Business Club logo">
+      SRCC Business Club
+    </a>
+    <nav class="links">
+      <a href="#about">About</a>
+      <a href="#focus">Focus</a>
+      <a href="https://www.facebook.com/srccbc">Facebook</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="top">
+
+  <section class="hero">
+    <p class="eyebrow">Shaheed Ramiz Uddin Cantonment College · Dhaka</p>
+    <h1>Where students learn to <em>lead</em>, not just study business.</h1>
+    <p class="lede">SRCC Business Club is the leading student organization at Shaheed Ramiz Uddin Cantonment College, building career-ready leaders through workshops, competitions, and real projects since 2017.</p>
+    <div class="cta-row">
+      <a class="btn primary" href="https://www.facebook.com/srccbc">Follow on Facebook</a>
+      <a class="btn" href="#about">Learn more</a>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <div class="section-head">
+      <h2>About the club</h2>
+      <span class="tag">Est. 2017</span>
+    </div>
+    <p>SRCC Business Club is dedicated to developing well-rounded, career-ready professionals. Through workshops, competitions, and hands-on projects, the club helps students build essential skills in leadership, entrepreneurship, public speaking, teamwork, and business strategy — bridging the gap between academic learning and real-world professional readiness.</p>
+  </section>
+
+  <section id="focus">
+    <div class="section-head">
+      <h2>What we build</h2>
+      <span class="tag">Focus areas</span>
+    </div>
+    <div class="pillars">
+      <div class="pillar">
+        <div class="mark">Leadership</div>
+        <h3>Leadership development</h3>
+        <p>Structured opportunities to plan, organize, and lead real initiatives from the ground up.</p>
+      </div>
+      <div class="pillar">
+        <div class="mark">Enterprise</div>
+        <h3>Entrepreneurship</h3>
+        <p>Business case work and project experience that turns ideas into practical skills.</p>
+      </div>
+      <div class="pillar">
+        <div class="mark">Voice</div>
+        <h3>Public speaking</h3>
+        <p>Regular practice presenting, pitching, and communicating with confidence.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div class="facts">
+      <div><span class="num">2017</span><span class="label">Founded</span></div>
+      <div><span class="num">Dhaka</span><span class="label">Based in</span></div>
+      <div><span class="num">8,100+</span><span class="label">Community</span></div>
+      <div><span class="num">SRCC</span><span class="label">College</span></div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="wrap">
+  <span>© 2026 SRCC Business Club — Shaheed Ramiz Uddin Cantonment College</span>
+  <span><a href="https://www.facebook.com/srccbc">facebook.com/srccbc</a></span>
+</footer>
+
+</body>
+  </html>
+  
