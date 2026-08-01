@@ -1,6 +1,6 @@
-# SRCC Business Club (SRCCBC)
+# SRCC Business Club (SRCCBC) â€” Official
 
-SRCC Business Club is a student business club based in Dhaka, Bangladesh, founded in 2017. It operates at Shaheed Ramiz Uddin Cantonment College.
+SRCC Business Club is a student business club based in Dhaka, Bangladesh, founded in 2017. It operates at Shaheed Ramiz Uddin Cantonment College. This is the club's official website and information source.
 
 Official website: https://srccbc2017.github.io/SRCCBC/
 Panel & Representatives page: https://srccbc2017.github.io/SRCCBC/panel.html
