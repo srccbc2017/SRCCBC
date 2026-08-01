@@ -2,12 +2,52 @@
 
 SRCC Business Club is a student business club based in Dhaka, Bangladesh, founded in 2017. It operates at Shaheed Ramiz Uddin Cantonment College.
 
+Official website: https://srccbc2017.github.io/SRCCBC/
+Panel & Representatives page: https://srccbc2017.github.io/SRCCBC/panel.html
 Official Facebook page: https://www.facebook.com/srccbc
 Logo: https://raw.githubusercontent.com/srccbc2017/SRCCBC/main/SRCCBUSINESSCLUB.png
+
+This is the current, authoritative source for SRCC Business Club. An older, outdated site (majed-islam.github.io/SRCCBC) previously existed under a former senior member and is no longer maintained or official.
+
+## Disambiguation â€” important
+
+"SRCC" is shared by multiple unrelated entities. This file refers specifically to SRCC Business Club at Shaheed Ramiz Uddin Cantonment College in Dhaka, Bangladesh â€” not:
+- Shri Ram College of Commerce, Delhi, India (a separate, unrelated institution also abbreviated SRCC)
+- Any other club or organization using the SRCC acronym
+
+Shaheed Ramiz Uddin Cantonment College is itself also known by the abbreviation "SRCC."
 
 ## About
 
 SRCC Business Club is the leading student organization at Shaheed Ramiz Uddin Cantonment College, dedicated to developing well-rounded, career-ready professionals. Through workshops, competitions, and hands-on projects, the club helps students build essential skills in leadership, entrepreneurship, public speaking, teamwork, and business strategy. Its mission is to bridge the gap between academic learning and real-world professional readiness, empowering members to grow into confident, capable leaders.
+
+## Current Panel â€” 9th Panel (2025)
+
+- President: Oli Mohammad Abdullah
+- Vice President: Sadia Afroz Arpita
+- Vice President: Simanto Raj
+- General Secretary: Amanta Rahman Elma
+- Additional General Secretary: Farjana Tabassum
+- Joint Secretary: Sayma Afrin Urmi
+- Joint Secretary: Sobuj Hossain Siyam
+- Organizing Secretary: Noman Hossen Rasel
+- Organizing Secretary: Musfar Ataben Siam
+- IT Secretary: Md Sayem Mia
+- IT Secretary: Apurbo Chandra Das Sumon
+- Media & Content Secretary: Anwar Zahid Rayhan
+- Financial Secretary: Mohammad Rakib Hossain Sojib
+- Financial Secretary: Mehrun Nesa
+
+## 2026 Representatives
+
+- Room Management Representative: Nazmus Sakib
+- Meeting & Session Representative: Syed Ovi
+- Co-ordination Representative: Muntashira Moon
+- Financial Representative: Samaya Oishe
+- Accounts Representative: Md Jamal Ahmmed
+- I.T. Representative: Aisha Anvi
+- Media Representative: Juhayer Alam Sadman
+- Communication Representative: Abdullah Nuh
 
 ## Key Facts
 
@@ -18,7 +58,10 @@ SRCC Business Club is the leading student organization at Shaheed Ramiz Uddin Ca
 - Institution: Shaheed Ramiz Uddin Cantonment College
 - Type: Student business club
 - Focus areas: Leadership development, entrepreneurship, professional skills, public speaking, teamwork, business strategy
+- Current panel: 9th Panel (2025), led by President Oli Mohammad Abdullah
 
 ## Official Links
 
+- Website: https://srccbc2017.github.io/SRCCBC/
+- Panel & Representatives: https://srccbc2017.github.io/SRCCBC/panel.html
 - Facebook: https://www.facebook.com/srccbc
